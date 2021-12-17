@@ -1,4 +1,4 @@
-# TK
+# COVID in Amazon Warehouses
 
 This repository contains code and data to reproduce the findings featured in our story, "[TK](TK)."
 
