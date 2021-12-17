@@ -43,6 +43,7 @@ This notebook filters OSHA complaint data down to just that related to Amazon fa
 
 | File | Description |
 |------|-------------|
+|**`The Markup - Amazon COVID-19 complaints Fed+State as of Oct 31 2021.xlsx`**| Federal and state OSHA complaints where the establishment name includes the term "Amazon" as of Oct. 31, 2021. This data is a response to a FOIA request made by The Markup. |
 |**`data/The Markup - Amazon COVID-19 inspections Fed+State as of Oct 31 2021.xlsx`**| Federal and state OSHA inspections of Amazon warehouses as of Oct. 31, 2021. This data is a response to a FOIA request made by The Markup. |
 |**`output/osha-amazon-closed-complaints.csv`**| A filtered list of publicly available closed federal and state OSHA complaint data, which is available on [OSHA's website](https://www.osha.gov/foia/archived-covid-19-data#closed-oct-2021). |
 |**`output/oha-data-2021-12-15.csv`**| Workplace outbreak counts scraped from Oregon Health Authority outbreak reports dated from March 10, 2021 to Dec. 15, 2021. |
