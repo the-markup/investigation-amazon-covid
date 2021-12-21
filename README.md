@@ -1,6 +1,6 @@
 # COVID in Amazon Warehouses
 
-This repository contains code and data to reproduce the findings featured in our story, "[Amazon Is Rolling Back COVID Protocols in Its Warehouses. Workers Say It’s Premature](TK)."
+This repository contains code and data to reproduce the findings featured in our story, "[Amazon Is Rolling Back COVID Protocols in Its Warehouses. Workers Say It’s Premature](https://themarkup.org/2021/12/21/amazon-is-rolling-back-covid-protocols-in-its-warehouses-workers-say-its-premature)."
 
 Jupyter notebooks used for data collection, preprocessing, and analysis are in the `notebooks` folder.
 
